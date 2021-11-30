@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,5 +14,5 @@ Currently, my research area is mainly on natural language processing, particular
 
 Outside of research, I enjoy building lego and listening to music ([Charlotte Cardin](https://en.wikipedia.org/wiki/Charlotte_Cardin), what a beautiful voice!).
 
-# Contact me
+# Contact Me
 Email: tian_yun@brown.edu
