@@ -6,17 +6,17 @@ author_profile: true
 ---
 
 ## 2021
-- <font size="5"> Does Vision-and-Language Pretraining Improve Lexical Grounding? </font>
+- <font size="5"> Does Vision-and-Language Pretraining Improve Lexical Grounding? </font> \
 **Tian Yun**, Chen Sun, Ellie Pavlick. \
 In Findings of EMNLP, 2021. \
 [[paper](https://aclanthology.org/2021.findings-emnlp.370.pdf)] [[code](https://github.com/tttyuntian/vlm_lexical_grounding)]
 
-- <font size="5"> Do Vision-Language Pretrained Models Learn Primitive Concepts? </font>
+- <font size="5"> Do Vision-Language Pretrained Models Learn Primitive Concepts? </font> \
 **Tian Yun**, Usha Bhalla, Ellie Pavlick, Chen Sun. \
 Submitted to CVPR 2022.  
 
 ## 2020
-- <font size="5"> Mining Biomedical Texts for Pediatric Information. </font>
+- <font size="5"> Mining Biomedical Texts for Pediatric Information. </font> \
 **Tian Yun**, Deepti Garg, Natalia Khuri. \
 In 14th International Joint Conference on Biomedical Engineering Systems and Technologies, 2020. \
 [[paper](https://www.scitepress.org/Papers/2021/103102/103102.pdf)] 
