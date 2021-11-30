@@ -8,13 +8,13 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Tian Yun"
-title_separator          : "-"
-name                     : &name "Tian Yun"
+title_separator          : ""
+name                     : &name ""
 description              : &description ""
 url                      : https://tttyuntian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "profile.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tian Yun"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "I am currently a 2nd year CS masters student at Brown, co-advised by Ellie Pavlick and Chen Sun. My research interests are in natural language processing, particularly in its fusion with computer vision, and interpretability of NLP and multimodal systems."
   location         : 
   employer         :
