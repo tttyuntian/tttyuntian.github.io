@@ -13,3 +13,6 @@ Hi! I'm a 2nd year computer science master's student co-advised by the incredibl
 Currently, my research area is mainly on natural language processing, particularly in its fusion with computer vision, and its interpretability and generalizability. I believe that incorporating multiple modalities is an important step towards general artificial intelligence.
 
 Outside of research, I enjoy building lego and listening to music ([Charlotte Cardin](https://en.wikipedia.org/wiki/Charlotte_Cardin), what a beautiful voice!).
+
+# Contact Me
+Email: tian_yun@brown.edu
