@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 2021
+# 2021
 - <font size="5"> Does Vision-and-Language Pretraining Improve Lexical Grounding? </font> \
 **Tian Yun**, Chen Sun, Ellie Pavlick. \
 In Findings of EMNLP, 2021. \
@@ -15,7 +15,7 @@ In Findings of EMNLP, 2021. \
 **Tian Yun**, Usha Bhalla, Ellie Pavlick, Chen Sun. \
 Submitted to CVPR 2022.  
 
-## 2020
+# 2020
 - <font size="5"> Mining Biomedical Texts for Pediatric Information. </font> \
 **Tian Yun**, Deepti Garg, Natalia Khuri. \
 In 14th International Joint Conference on Biomedical Engineering Systems and Technologies, 2020. \
