@@ -5,13 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-# 2022
+## 2022
 ---
 - *Do Vision-Language Pretrained Models Learn Primitive Concepts?*  
 **Tian Yun**, Usha Bhalla, Ellie Pavlick, Chen Sun. \
 Submitted to CVPR 2022.  
 
-# 2021
+## 2021
 ---
 - *Does Vision-and-Language Pretraining Improve Lexical Grounding?*  
 **Tian Yun**, Chen Sun, Ellie Pavlick. \
