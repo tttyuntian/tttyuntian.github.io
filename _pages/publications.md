@@ -9,7 +9,8 @@ author_profile: true
 ---
 - *Do Vision-Language Pretrained Models Learn Primitive Concepts?*  
 **Tian Yun**, Usha Bhalla, Ellie Pavlick, Chen Sun. \
-Submitted to CVPR 2022.  
+Submitted to CVPR 2022.
+[[paper](https://drive.google.com/file/d/1r4BjDWCGjtQNSTdZuKMlrpQJSjW_bU_D/view?usp=sharing)]
 
 ## 2021
 ---
