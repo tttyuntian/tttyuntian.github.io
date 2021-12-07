@@ -5,24 +5,44 @@ permalink: /publications/
 author_profile: true
 ---
 
-# 2021
+## 2022
 ---
-- <font size="5"> Does Vision-and-Language Pretraining Improve Lexical Grounding? </font> 
+- *Do Vision-Language Pretrained Models Learn Primitive Concepts?*  
+**Tian Yun**, Usha Bhalla, Ellie Pavlick, Chen Sun. \
+Currently Under Review. \
+[[paper](https://drive.google.com/file/d/1r4BjDWCGjtQNSTdZuKMlrpQJSjW_bU_D/view?usp=sharing)]
+
+## 2021
+---
+- *Does Vision-and-Language Pretraining Improve Lexical Grounding?*  
 **Tian Yun**, Chen Sun, Ellie Pavlick. \
-In Findings of EMNLP, 2021. \
+Findings of EMNLP, 2021. \
 [[paper](https://aclanthology.org/2021.findings-emnlp.370.pdf)] [[code](https://github.com/tttyuntian/vlm_lexical_grounding)]
 
-- <font size="5"> Do Vision-Language Pretrained Models Learn Primitive Concepts? </font> 
+- *Mining Biomedical Texts for Pediatric Information.*  
+**Tian Yun**, Deepti Garg, Natalia Khuri. \
+14th International Joint Conference on Biomedical Engineering Systems and Technologies - BIOINFORMATICS, 2021. \
+[[paper](https://www.scitepress.org/Papers/2021/103102/103102.pdf)] 
+
+<!---
+# 2022
+---
+- <font size="5"> Do Vision-Language Pretrained Models Learn Primitive Concepts? </font>  
 **Tian Yun**, Usha Bhalla, Ellie Pavlick, Chen Sun. \
 Submitted to CVPR 2022.  
 
-# 2020
+# 2021
 ---
-- <font size="5"> Mining Biomedical Texts for Pediatric Information. </font> 
-**Tian Yun**, Deepti Garg, Natalia Khuri. \
-In 14th International Joint Conference on Biomedical Engineering Systems and Technologies, 2020. \
-[[paper](https://www.scitepress.org/Papers/2021/103102/103102.pdf)] 
+- <font size="5"> Does Vision-and-Language Pretraining Improve Lexical Grounding? </font>  
+**Tian Yun**, Chen Sun, Ellie Pavlick. \
+Findings of EMNLP, 2021. \
+[[paper](https://aclanthology.org/2021.findings-emnlp.370.pdf)] [[code](https://github.com/tttyuntian/vlm_lexical_grounding)]
 
+- <font size="5"> Mining Biomedical Texts for Pediatric Information. </font>  
+**Tian Yun**, Deepti Garg, Natalia Khuri. \
+14th International Joint Conference on Biomedical Engineering Systems and Technologies - BIOINFORMATICS, 2021. \
+[[paper](https://www.scitepress.org/Papers/2021/103102/103102.pdf)] 
+-->
 <!---
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="#{{author.googlescholar}}">my Google Scholar profile</a>.</u>
