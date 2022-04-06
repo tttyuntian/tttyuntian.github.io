@@ -10,7 +10,7 @@ author_profile: true
 - *Do Vision-Language Pretrained Models Learn Primitive Concepts?*  
 **Tian Yun**, Usha Bhalla, Ellie Pavlick, Chen Sun. \
 Currently Under Review. \
-[[paper](https://drive.google.com/file/d/1r4BjDWCGjtQNSTdZuKMlrpQJSjW_bU_D/view?usp=sharing)]
+[[paper](https://arxiv.org/abs/2203.17271)]
 
 ## 2021
 ---
