@@ -9,7 +9,7 @@ author_profile: true
 ---
 - *Emergence of Grounded Representations in Embodied Sequence Modeling*  
 **Tian Yun**\*, Zilai Zeng\*, Kunal Handa, Ashish Thapliyal, Bo Pang, Ellie Pavlick, Chen Sun \
-EMNLP 2023
+EMNLP 2023 \
 [[paper](https://openreview.net/forum?id=FKNtgr0qQy)]
 
 - *Improved Inference of Human Intent by Combining Plan Recognition and Language Feedback*  
@@ -37,7 +37,7 @@ Findings of EMNLP 2021 \
 ---
 - *BLOOM: A 176B-Parameter Open-Access Multilingual Language Model*  
 Teven Scao et al. \
-arXiv preprint arXiv:2211.05100 (2022)
+arXiv preprint arXiv:2211.05100 (2022) \
 [[paper](https://arxiv.org/abs/2211.05100)]
 
 
