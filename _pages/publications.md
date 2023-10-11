@@ -1,20 +1,18 @@
 ---
 layout: archive
-title: "Publications & Preprints"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-# Publications
-
 ## 2023
 ---
-- *Emergence of Grounded Representations in Embodied Sequence Modeling*
+- *Emergence of Grounded Representations in Embodied Sequence Modeling*  
 **Tian Yun**\*, Zilai Zeng\*, Kunal Handa, Ashish Thapliyal, Bo Pang, Ellie Pavlick, Chen Sun \
 EMNLP 2023
 [[paper](https://openreview.net/forum?id=FKNtgr0qQy)]
 
-- *Improved Inference of Human Intent by Combining Plan Recognition and Language Feedback*
+- *Improved Inference of Human Intent by Combining Plan Recognition and Language Feedback*  
 Ifrah Idrees, **Tian Yun**, Naveen Sharma, Nakul Gopalan, Stefanie Tellex, George Konidaris \
 IROS 2023
 
@@ -36,7 +34,8 @@ Findings of EMNLP 2021 \
 [[paper](https://www.scitepress.org/Papers/2021/103102/103102.pdf)] 
 
 # Preprints
-- *BLOOM: A 176B-Parameter Open-Access Multilingual Language Model*
+---
+- *BLOOM: A 176B-Parameter Open-Access Multilingual Language Model*  
 Teven Scao et al. \
 arXiv preprint arXiv:2211.05100 (2022)
 [[paper](https://arxiv.org/abs/2211.05100)]
