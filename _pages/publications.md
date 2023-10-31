@@ -14,7 +14,8 @@ EMNLP 2023 \
 
 - *Improved Inference of Human Intent by Combining Plan Recognition and Language Feedback*  
 Ifrah Idrees, **Tian Yun**, Naveen Sharma, Nakul Gopalan, Stefanie Tellex, George Konidaris \
-IROS 2023
+IROS 2023 \
+[[paper](https://arxiv.org/abs/2310.02462)]
 
 - *Do Vision-Language Pretrained Models Learn Composable Primitive Concepts?*  
 **Tian Yun**, Usha Bhalla, Ellie Pavlick, Chen Sun \
