@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2024
+---
+- *mOthello: When Do Cross-Lingual Representation Alignment and Cross-Lingual Transfer Emerge in Multilingual Models?*
+Tianze Hua\*, **Tian Yun**\*, Ellie Pavlick \
+Under Review 
+
 ## 2023
 ---
 - *Emergence of Grounded Representations in Embodied Sequence Modeling*  
