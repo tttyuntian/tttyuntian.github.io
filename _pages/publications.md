@@ -9,14 +9,15 @@ author_profile: true
 ---
 - *mOthello: When Do Cross-Lingual Representation Alignment and Cross-Lingual Transfer Emerge in Multilingual Models?*
 Tianze Hua\*, **Tian Yun**\*, Ellie Pavlick \
-Under Review 
+NAACL 2024 \
+[[paper](https://arxiv.org/abs/2404.12444)] [[project](https://multilingual-othello.github.io/)] [[code](https://github.com/ethahtz/multilingual_othello)]
 
 ## 2023
 ---
 - *Emergence of Grounded Representations in Embodied Sequence Modeling*  
 **Tian Yun**\*, Zilai Zeng\*, Kunal Handa, Ashish Thapliyal, Bo Pang, Ellie Pavlick, Chen Sun \
 EMNLP 2023 \
-[[paper](https://openreview.net/forum?id=FKNtgr0qQy)]
+[[paper](https://arxiv.org/abs/2311.02171)] [[project](https://abstract-state-seqmodel.github.io/)] [[code](https://github.com/brown-palm/abstract-state-seqmodel)]
 
 - *Improved Inference of Human Intent by Combining Plan Recognition and Language Feedback*  
 Ifrah Idrees, **Tian Yun**, Naveen Sharma, Nakul Gopalan, Stefanie Tellex, George Konidaris \
