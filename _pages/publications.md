@@ -7,6 +7,10 @@ author_profile: true
 
 ## 2024
 ---
+- *Can Frozen Large Language Models Solve Visual Reasoning?*
+**Tian Yun**, Ellie Pavlick, Chen Sun
+Under Review
+
 - *mOthello: When Do Cross-Lingual Representation Alignment and Cross-Lingual Transfer Emerge in Multilingual Models?*
 Tianze Hua\*, **Tian Yun**\*, Ellie Pavlick \
 NAACL 2024 \
