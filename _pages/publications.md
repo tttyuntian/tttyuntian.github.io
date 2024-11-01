@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2024
 ---
-- *Can Frozen Large Language Models Solve Visual Reasoning?*
+- *Can Frozen Large Language Models Solve Visual Reasoning?* \
 **Tian Yun**, Ellie Pavlick, Chen Sun \
 Under Review
 
