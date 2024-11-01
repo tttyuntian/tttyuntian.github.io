@@ -8,8 +8,13 @@ author_profile: true
 ## 2024
 ---
 - *Can Frozen Large Language Models Solve Visual Reasoning?*
-**Tian Yun**, Ellie Pavlick, Chen Sun
+**Tian Yun**, Ellie Pavlick, Chen Sun \
 Under Review
+
+- *$100K or 100 days: Trade-offs when Pre-Training with Academic Resources*
+Apoorv Khandelwal, **Tian Yun**, Nihal V. Nayak, Jack Merullo, Stephen H. Bach, Chen Sun, Ellie Pavlick \
+Under Review \
+[[paper](https://arxiv.org/abs/2410.23261)] [[code](https://github.com/apoorvkh/academic-pretraining)]
 
 - *mOthello: When Do Cross-Lingual Representation Alignment and Cross-Lingual Transfer Emerge in Multilingual Models?*
 Tianze Hua\*, **Tian Yun**\*, Ellie Pavlick \
